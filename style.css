@@ -233,7 +233,7 @@ h3 {
     }
   }
   .slide:nth-of-type(3) {
-    background: #000 url("/images/necklace3.jpg") no-repeat;
+    background: #000 url("/images/slide3.jpg") no-repeat;
     background-size: cover;
     color: white;
 

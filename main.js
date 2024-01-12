@@ -396,7 +396,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "images/rings.jpg",
     "images/slide1.jpg",
     "images/slide2.jpg",
-    "images/slide3.jpg",
+    "images/necklace3.jpg",
     "hands.mp4",
   ]);
 
