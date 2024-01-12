@@ -31,13 +31,13 @@
 
 @font-face {
   font-family: "Geist";
-  src: url("/Fonts/Geist-Light.woff2") format("woff2");
+  src: url("/font/Geist-Light.woff2") format("woff2");
   font-weight: 300; /* or the correct weight for Geist-Light */
 }
 
 @font-face {
   font-family: "Geist";
-  src: url("/Fonts/Geist-Bold.woff2") format("woff2");
+  src: url("/font/Geist-Bold.woff2") format("woff2");
   font-weight: 700; /* or the correct weight for Geist-Bold */
 }
 
