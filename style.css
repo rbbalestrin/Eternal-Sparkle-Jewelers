@@ -213,7 +213,7 @@ h3 {
     }
   }
   .slide:nth-of-type(1) {
-    background: #000 url("/images/slide1.jpg") no-repeat;
+    background: #000 url("./public/Photos/slide1.jpg") no-repeat;
     background-size: cover;
     color: white;
 
@@ -223,7 +223,7 @@ h3 {
     }
   }
   .slide:nth-of-type(2) {
-    background: #000 url("/images/slide2.jpg") no-repeat;
+    background: #000 url("./public/Photos/slide2.jpg") no-repeat;
     background-size: cover;
     color: black;
 
@@ -233,7 +233,7 @@ h3 {
     }
   }
   .slide:nth-of-type(3) {
-    background: #000 url("/images/slide3.jpg") no-repeat;
+    background: #000 url("./public/Photos/necklace2.jpg") no-repeat;
     background-size: cover;
     color: white;
 
